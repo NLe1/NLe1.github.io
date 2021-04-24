@@ -5,21 +5,31 @@ title: About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+I'm Nhan! I am rising senior undergraduate student at <span class="highlight-orange">San Jose State University</span> . I aspired to work in software industry where I can express my curiosity in a advantageous way.
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+On personal note, I am drawn to intricate topics, and part-time musician in my one-man band. I love The Beatles, and Tarantino movies.
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
+### Where I worked and will be working at
 
-> All of your co-workers are fools. You must learn to pity and tolerate them.
+> <span class="highlight-orange">Amazon</span> as Incoming SDE Intern (SF, CA)
 
-> There are very few problems that can't be solved through a suitable application of high explosives.
+> <span class="highlight-orange">SAP Labs</span> as Blockchain Developer Intern (Palo Alto, CA).
 
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+> <span class="highlight-orange">SAP SF</span> as SDE Intern (San Ramon, CA).
+
+> <span class="highlight-orange">DiveChat</span> as Backend Engineer Intern (Remote, CA).
+
+> ... See my resume for more
+
+### Project
+
+1. [playlist generator](https://github.com) based on Spotify top artists, genres and playlists. Built as result of self-taught React and JS
+2. [tab tracker](https://github.com/NLe1/tab-tracker) built out of frustration of tab tracking when playing guitar. Learned Vue.JS a ton.
+3. [keyword pipeline](https://github.com/NLe1/kafka-elasticsearch-twitter) started to curious about COVID on twitter, so I built a Kafka pipeline to pipe most popular tweet and stored into ElasticSearch server.
+4. [rehash](https://github.com/NLe1/rehash) Combine CV and Flutter to build cross platform app use for classifying garbage type.
+
+> Visit my [github](https://github.com/NLe1) for more geeky stuffs
 
 ### Contact Me
-No thanks, I have enough problems of my own to deal with.
+
+[email](mailto:nhan99dn@gmail.com) [linkedin](https://www.linkedin.com/in/nle1/) [twitter](https://twitter.com/nhanbarry99dn)

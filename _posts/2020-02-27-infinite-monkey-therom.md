@@ -3,6 +3,7 @@ layout: post
 title: Infinite Monkey Theorem
 subtitle: as crazy as it sounds...
 tags: [math, tech]
+private: true
 ---
 
 <img style="float: right" src="../assets/monkey-typewriter.jpg">
