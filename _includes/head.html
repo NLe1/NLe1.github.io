@@ -3,7 +3,8 @@
   site.title %} {% assign desc = page.subtitle %} {% else %} {% assign title =
   site.title %} {% assign desc = site.subtitle %} {% endif %} {% assign sitedir
   = site.url | append: site.baseurl | append: "/" %} {% assign favicon_location
-  = sitedir | append: site.favicon_location %}
+  = sitedir | append: site.favicon_location %} {% if jekyll.environment ==
+  'production' %} {% include analytics.html %} {% endif %}
 
   <title>{{ title }}</title>
 

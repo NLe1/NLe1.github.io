@@ -21,3 +21,6 @@ navbar:
     link: "about"
   - name: "Resume"
     absolute-link: "http://nle1.github.io/resume.pdf"
+
+# Google services
+google_analytics: UA-156047559-1
